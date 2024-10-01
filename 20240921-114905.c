@@ -1,3 +1,9 @@
+/*
+program to print simple interest
+Author:Jckson Njenga
+Registration Number:CT102/G/21788/23
+  */
+
 #include<stdio.h>
 int main()
 {
